@@ -93,6 +93,28 @@ cv:
         releaseDate: 2026
         url: https://arxiv.org/abs/2510.00458
 
+      - title: "WiSE-OD: Benchmarking Robustness in Infrared Object Detection"
+        authors:
+          - Heitor R. Medeiros
+          - Atif Belal
+          - Masih Aminbeidokhti
+          - Eric Granger
+          - Marco Pedersoli
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2507.18925
+
+      - title: Low-Rank Expert Merging for Multi-Source Domain Adaptation in Person Re-Identification
+        authors:
+          - Taha Mustapha Nehdi
+          - Nairouz Mrabah
+          - Atif Belal
+          - Marco Pedersoli
+          - Eric Granger
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2508.06831
+
       - title: Visual Modality Prompt for Adapting Vision-Language Object Detectors
         authors:
           - Heitor R. Medeiros
@@ -104,6 +126,17 @@ cv:
         releaseDate: 2025
         url: https://arxiv.org/abs/2412.00622
 
+      - title: Attention-Based Class-Conditioned Alignment for Multi-Source Domain Adaptation of Object Detectors
+        authors:
+          - Atif Belal
+          - Akhil Meethal
+          - Francisco Perdigon Romero
+          - Marco Pedersoli
+          - Eric Granger
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2403.09918
+
       - title: Multi-Source Domain Adaptation for Object Detection with Prototype-based Mean Teacher
         authors:
           - Atif Belal
@@ -114,6 +147,30 @@ cv:
         publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
         releaseDate: 2024
         url: https://arxiv.org/abs/2309.14950
+
+      - title: Unsupervised Multi-Target Domain Adaptation Through Knowledge Distillation
+        authors:
+          - Le Thanh Nguyen-Meidine
+          - Atif Belal
+          - Madhu Kiran
+          - Jose Dolz
+          - Louis-Antoine Blais-Morin
+          - Eric Granger
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2021
+        url: https://arxiv.org/abs/2007.07077
+
+      - title: Knowledge Distillation Methods for Efficient Unsupervised Adaptation Across Multiple Domains
+        authors:
+          - Le Thanh Nguyen-Meidine
+          - Atif Belal
+          - Madhu Kiran
+          - Jose Dolz
+          - Louis-Antoine Blais-Morin
+          - Eric Granger
+        publisher: Image and Vision Computing
+        releaseDate: 2021
+        url: https://doi.org/10.1016/j.imavis.2021.104096
 
     Skills:
       - name: Programming Languages

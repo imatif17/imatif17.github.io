@@ -13,3 +13,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
+
+"IVC":
+  url: https://www.sciencedirect.com/journal/image-and-vision-computing
+  color: "#e65100"

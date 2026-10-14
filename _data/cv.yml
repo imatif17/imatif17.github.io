@@ -1,0 +1,130 @@
+cv:
+  name: Atif Belal
+  label: Ph.D. Candidate in Machine Learning
+  email: atif.belal.1@ens.etsmtl.ca
+  location: Montreal, Canada
+  summary: Ph.D. candidate in Machine Learning at ÉTS Montréal with over six years of experience in artificial intelligence and computer vision, specializing in object detection, vision-language models, video anomaly prediction, multimodal LLMs, and domain adaptation.
+
+  social_networks:
+    - network: LinkedIn
+      username: atif-belal-15779821a
+    - network: GitHub
+      username: imatif17
+
+  sections:
+    Education:
+      - institution: École de Technologie Supérieure
+        location: Montreal, Canada
+        url: https://www.etsmtl.ca/
+        area: Machine Learning
+        studyType: Ph.D.
+        start_date: 2022-05
+        end_date: present
+        score: "GPA: 4.3/4.3"
+
+      - institution: Aligarh Muslim University
+        area: Computer Engineering
+        studyType: B.Tech.
+        start_date: 2017-08
+        end_date: 2021-07
+        score: "GPA: 4.05/4.3"
+
+    Experience:
+      - company: University of Trento
+        position: Visiting Ph.D. Researcher
+        location: Trento, Italy
+        start_date: 2026-07
+        end_date: 2026-12
+        highlights:
+          - "Video Anomaly Prediction with Localization: developing training-free methods that use multimodal LLMs to predict whether an anomaly will occur and which people will be involved."
+          - Built spatio-temporal annotations by tracking involved people backward from each anomaly with SAM3, refined through shot-cut detection, cycle-consistency checks, and manual review, and added per-video captions.
+          - Benchmarking multimodal LLMs as zero-shot baselines using frame-level AUC, temporal AP, and spatial AP.
+
+      - company: École de Technologie Supérieure
+        position: Machine Learning Doctoral Research Assistant
+        location: Montreal, Canada
+        start_date: 2022-05
+        end_date: present
+        highlights:
+          - "Vision-Language Object Detection: proposed the first test-time adaptation method for vision-language object detectors using weighted entropy minimization and image-conditioned prompt selection."
+          - Improved performance across multiple datasets by an average of 9.8 AP50 points while optimizing only 2.1% of the model parameters.
+          - "Domain-Adaptive Object Detection: proposed a method for unsupervised multi-source domain adaptation in object detection utilizing prototype and attention-based methods for class-level alignment."
+          - Improved performance on BDD100K by 8.1 AP50 points while reducing the number of trainable parameters by 50 million, leading to faster and more efficient computation.
+          - Demonstrated robustness in handling imbalanced datasets, achieving 6.8% improvement in imbalanced settings.
+
+      - company: GAIA, Ericsson
+        position: Mitacs Accelerate Intern
+        location: Montreal, Canada
+        start_date: 2022-09
+        end_date: 2024-03
+        highlights:
+          - Developed an object detection model, enabling precise identification of antennas on towers from drone footage; reduced false positives by 35% under challenging weather scenarios.
+          - Trained the model in a semi-supervised setting using only 40% of the labeled data.
+          - Enhanced detection accuracy by 11% mAP compared to the previous state-of-the-art method.
+
+      - company: LIVIA Laboratory, ÉTS
+        position: Artificial Intelligence Research Engineer
+        location: Montreal, Canada (Remote)
+        start_date: 2020-04
+        end_date: 2021-08
+        highlights:
+          - Collaborated with a doctoral candidate to develop a progressive multi-target domain adaptation method for image classification, improving generalization across multiple target domains by up to 15%.
+          - Enhanced real-time CNN applicability by reducing computational complexity by 30% while maintaining accuracy within 2% through combined knowledge distillation and unsupervised domain adaptation.
+          - Achieved state-of-the-art performance on benchmark datasets, improving accuracy by 4% on the OfficeHome dataset with the compressed model.
+
+    Publications:
+      - title: "DESA-TTA: Dynamic EMA and Source Anchoring for Test-Time Adaptation"
+        authors:
+          - Atif Belal
+          - Lilian Hollard
+          - Marco Pedersoli
+          - Eric Granger
+        publisher: arXiv preprint
+        releaseDate: 2026-09-01
+        url: https://arxiv.org/abs/2609.01795
+
+      - title: "VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors"
+        authors:
+          - Atif Belal
+          - Heitor R. Medeiros
+          - Marco Pedersoli
+          - Eric Granger
+        publisher: European Conference on Computer Vision (ECCV)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2510.00458
+
+      - title: Visual Modality Prompt for Adapting Vision-Language Object Detectors
+        authors:
+          - Heitor R. Medeiros
+          - Atif Belal
+          - Srikanth Muralidharan
+          - Eric Granger
+          - Marco Pedersoli
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2412.00622
+
+      - title: Multi-Source Domain Adaptation for Object Detection with Prototype-based Mean Teacher
+        authors:
+          - Atif Belal
+          - Akhil Meethal
+          - Francisco Perdigon Romero
+          - Marco Pedersoli
+          - Eric Granger
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2309.14950
+
+    Skills:
+      - name: Programming Languages
+        keywords: "Python, C/C++, HTML, CSS, SQL"
+      - name: Machine Learning and Computer Vision
+        keywords: "scikit-learn, NumPy, Pandas, SciPy, Matplotlib, OpenCV, Detectron2"
+      - name: Deep Learning
+        keywords: "PyTorch, Keras, TensorFlow, Hugging Face, Transformers, LangChain, OpenAI API"
+      - name: Vision-Language
+        keywords: "Grounding DINO, YOLO-World, SAM3, Qwen-VL, Video-LLaVA, Video-LLaMA"
+      - name: Other Technical Skills
+        keywords: "Git, Linux, Azure, Google Cloud, Docker, Kubernetes"
+      - name: Soft Skills
+        keywords: "Communication, Presentation, Collaboration, Team Work, Creativity, Leadership, Management"

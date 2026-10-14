@@ -1,0 +1,15 @@
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#1f6f8b"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#2e7d32"
+
+"WACV":
+  url: https://wacv.thecvf.com/
+  color: "#6a1b9a"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

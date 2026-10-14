@@ -1,0 +1,5 @@
+# Optional: link co-author names in the publication list to their pages.
+# Format:
+# "lastname":
+#   - firstname: ["Firstname", "F."]
+#     url: https://their-page.example

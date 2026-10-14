@@ -1,0 +1,8 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: atif.belal.1@ens.etsmtl.ca # your email address
+linkedin_username: atif-belal-15779821a # your LinkedIn user name
+github_username: imatif17 # your GitHub user name
+cv_pdf: /assets/pdf/Atif_Belal_CV.pdf # path to your CV PDF file
+scholar_userid: rO8duJcAAAAJ # your Google Scholar ID
